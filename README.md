@@ -2,10 +2,6 @@
 
 ## Introduction
 
-# Face recognition media player control
-
-##introuction
-
 *We use ResNet-50 Convolutional neural network in detection of Covid from chest X-rays.
 *We will be using Tensorflow framework to deploy the neural networks.
 *ResNet-50 is a convolutional neural network that is 50 layers deep and the pretrained network can even classify about 1000 object categories.
