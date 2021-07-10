@@ -1,6 +1,6 @@
 # Covid detection using ResNet-50
 
-##introuction
+##introduction
 
 This project aims to detect hand gestures and control media without touching the keyboard. Opencv is used to access the video from webcam . Pyautogui is used to configure the media player with the python code.
 
