@@ -1,0 +1,10 @@
+tensorflow
+keras
+scipy
+pyread
+xlread
+matplotlib
+numpy
+pandas
+os 
+shutil
